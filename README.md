@@ -1,2 +1,2 @@
 # nodebucket-server
- Nodebucket Server repo for MEAN Stack Bootcamp
+The separate repo for the NodeBucket app server

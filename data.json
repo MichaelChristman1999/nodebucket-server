@@ -1,0 +1,242 @@
+[
+    {
+      "_id": "6545d7bbe97a290739272eb9",
+      "employeeId": "1007",
+      "employeeName": "Robert Heikenfeld",
+      "position": "Project Manager",
+      "tasks": [
+        {
+          "_id": "654e9b4280b4d7dff831f25c",
+          "taskName": "Obtain detail specs for project",
+          "taskDescription": "Obtain the details specifications for Nodebucket",
+          "date": "2023-10-27",
+          "importance": "High",
+          "status": "to-do"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f25d",
+          "taskName": "Meet with Adam to go over project details",
+          "taskDescription": "Discuss the project details with Adam",
+          "date": "2023-10-26",
+          "importance": "Medium",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f25e",
+          "taskName": "Oversee the development team to ensure they're on schedule",
+          "taskDescription": "Supervise the development team's progress to ascertain adherence to deployment deadline",
+          "date": "2023-10-25",
+          "importance": "High",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f25f",
+          "taskName": "Talk with clients and shareholders",
+          "taskDescription": "Meet with project clients and shareholders",
+          "date": "2023-10-24",
+          "importance": "Medium",
+          "status": "done"
+        }
+      ]
+    },
+    {
+      "_id": "6545d8d7e97a290739272eba",
+      "employeeId": "1008",
+      "employeeName": "Jillian Bryniarski",
+      "position": "Marketing",
+      "tasks": [
+        {
+          "_id": "654e9b4280b4d7dff831f260",
+          "taskName": "Meet with marketing VPs for quarterly budget",
+          "taskDescription": "Discuss quarterly budget with marketing VPs",
+          "date": "2023-10-27",
+          "importance": "High",
+          "status": "to-do"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f261",
+          "taskName": "Create marketing analysis report",
+          "taskDescription": "Create an analysis report for current project",
+          "date": "2023-10-26",
+          "importance": "Medium",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f262",
+          "taskName": "Create marketing materials for Nodebucket",
+          "taskDescription": "Create materials to market Nodebucket project",
+          "date": "2023-10-25",
+          "importance": "Medium",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f263",
+          "taskName": "Conduct market research to identify emerging consumer trends",
+          "taskDescription": "Conduct research to identify relevant consumer trends",
+          "date": "2023-10-24",
+          "importance": "Medium",
+          "status": "done"
+        }
+      ]
+    },
+    {
+      "_id": "65468044e97a290739272ebb",
+      "employeeId": "1009",
+      "employeeName": "Joseph Lawton",
+      "position": "Assistant Project Manager",
+      "tasks": [
+        {
+          "_id": "654e9b4280b4d7dff831f264",
+          "taskName": "Send an automated email to a director for approval",
+          "taskDescription": "Automate an email to send to a director to be approved",
+          "date": "2023-10-26",
+          "importance": "High",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f265",
+          "taskName": "Work with Adam to improve the employeeLookup module",
+          "taskDescription": "Collaborate with Adam to enhance the employeeLookup module",
+          "date": "2023-10-27",
+          "importance": "Medium",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f266",
+          "taskName": "Regression test code level 5.10.4 in DEV",
+          "taskDescription": "The regression test code level 5.10.4 is in development",
+          "date": "2023-10-29",
+          "importance": "Medium",
+          "status": "to-do"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f267",
+          "taskName": "Verify with the project testing team that all features work as intended",
+          "taskDescription": "Check in with code testers to confirm that all features are working properly",
+          "date": "2023-10-31",
+          "importance": "High",
+          "status": "to-do"
+        }
+      ]
+    },
+    {
+      "_id": "6546884fe97a290739272ebc",
+      "employeeId": "1010",
+      "employeeName": "Adam Larsen",
+      "position": "Full Stack Developer",
+      "tasks": [
+        {
+          "_id": "654e9b4280b4d7dff831f268",
+          "taskName": "Solve issues with JPEG and JPG format images",
+          "taskDescription": "Investigate the issues with JPG and JPEG images",
+          "date": "2023-10-22",
+          "importance": "Low",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f269",
+          "taskName": "Modify stored procedure to include VP and director info",
+          "taskDescription": "Revise stored procedure to contain both director and VP information",
+          "date": "2023-10-26",
+          "importance": "Medium",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f26a",
+          "taskName": "Ensure that the database integration is working correctly",
+          "taskDescription": "Confirm database is integrated and working properly when users insert data into application",
+          "date": "2023-11-01",
+          "importance": "High",
+          "status": "to-do"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f26b",
+          "taskName": "Test if tasks and admin manager pages function as intended",
+          "taskDescription": "Check if the tasks and admin manager pages function properly",
+          "date": "2023-10-30",
+          "importance": "High",
+          "status": "to-do"
+        }
+      ]
+    },
+    {
+      "_id": "65468c5be97a290739272ebd",
+      "employeeId": "1011",
+      "employeeName": "Kyle DeMoe",
+      "position": "Frontend Web Developer",
+      "tasks": [
+        {
+          "_id": "654e9b4280b4d7dff831f26c",
+          "taskName": "Establish a SSO authentication method",
+          "taskDescription": "Set up single sign-on authentication for sign-in page",
+          "date": "2023-10-24",
+          "importance": "Medium",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f26d",
+          "taskName": "Develop a landing page for website",
+          "taskDescription": "Create and design the landing page for Nodebucket website",
+          "date": "2023-10-27",
+          "importance": "High",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f26e",
+          "taskName": "Test the landing page to make sure elements work as intended",
+          "taskDescription": "Test the landing page to verify it is functional and responsive",
+          "date": "2023-10-30",
+          "importance": "Medium",
+          "status": "to-do"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f26f",
+          "taskName": "Make sure the other pages have a consistent layout and work as intended",
+          "taskDescription": "Confirm that the other webpages for the project work properly and that the UI is navigable",
+          "date": "2023-11-02",
+          "importance": "High",
+          "status": "to-do"
+        }
+      ]
+    },
+    {
+      "_id": "65468f32e97a290739272ebe",
+      "employeeId": "1012",
+      "employeeName": "Hannah Crites",
+      "position": "Backend Developer",
+      "tasks": [
+        {
+          "_id": "654e9b4280b4d7dff831f270",
+          "taskName": "Create a functional form for users to fill out",
+          "taskDescription": "Design a form that is responsive and simple to use",
+          "date": "2023-10-28",
+          "importance": "Medium",
+          "status": "to-do"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f271",
+          "taskName": "Develop a contact page and manage user information",
+          "taskDescription": "Design a functional contact page that integrates recording and storing user info",
+          "date": "2023-10-30",
+          "importance": "High",
+          "status": "to-do"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f272",
+          "taskName": "Collaborate with Kyle to plan out how to manage the database for Nodebucket",
+          "taskDescription": "Work with Kyle to integrate a database to the front-end portions of the website",
+          "date": "2023-10-26",
+          "importance": "Medium",
+          "status": "done"
+        },
+        {
+          "_id": "654e9b4280b4d7dff831f273",
+          "taskName": "Help Adam with adding the admin manager page functionality",
+          "taskDescription": "Collaborate with Adam on the admin manager page to make sure it works as intended",
+          "date": "2023-11-04",
+          "importance": "High",
+          "status": "to-do"
+        }
+      ]
+    }
+  ]
